@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#02115F</color>
+    <color name="red">#A60F04</color>
+    <color name="purple">#6A5ACD</color>
+    <color name="grey">#CCCCCC</color>
+    <color name="nav_background">#FFFFFF</color>
+    <color name="nav_selected">#6A5ACD</color>
+    <color name="nav_unselected">#666666</color>
+    <color name="nav_ripple">#E0E0E0</color>
+    <color name="green">#4CAF50</color>
+    <color name="income_background">#D4F4E2</color>
+    <color name="expense_background">#FFE4E6</color>
+    <color name="income_text">#34C759</color>
+    <color name="expense_text">#FF3B30</color>
+    <color name="category_food">#FF5733</color>
+    <color name="category_transport">#33FF57</color>
+    <color name="category_entertainment">#3357FF</color>
+    <color name="category_bills">#FF33A1</color>
+    <color name="category_others">#A1FF33</color>
+    <color name="category_salary">#57FF33</color>
+    <color name="category_freelance">#33A1FF</color>
+    <color name="category_interest_money">#FF3357</color>
+    <color name="category_gifts">#A133FF</color>
+</resources>
